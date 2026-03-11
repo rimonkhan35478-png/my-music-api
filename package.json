@@ -1,0 +1,9 @@
+ {
+    "name": "my-music-api",
+    "scripts": {
+      "start": "npx NeteaseCloudMusicApi@latest"
+    },
+    "engines": {
+      "node": "18.19.0"
+    }
+  }
